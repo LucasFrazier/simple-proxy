@@ -34,4 +34,4 @@ This is a simple node proxy server built with fastify. It is not intended for pr
     node proxy-server
     ```
 
-### \*Note: You will need to update the designated value ins `proxy-server.js` manually before the server can successfully run
+### \*Note: You will need to update the designated values in `proxy-server.js` manually before the server can successfully run
